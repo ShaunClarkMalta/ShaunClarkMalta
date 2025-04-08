@@ -1,4 +1,13 @@
-## Hi there 👋
+## Aspiring Developer | Python & Programming Student 🧐
+
+- 🛰 Currently transitioning into Tech 
+- 🎓 Currently learning: Python, SQL, HTML, CSS, Javascript 
+- 🌍 Here to: Learn More, Build my Portfolio, Make Connections 
+- 😅 Just trying to keep up with the rest of the World 
+
+---
+### Living in Barcelona, Spain 🌴
+- Contact me if you have any advice, suggestions or want to work together!
 
 <!--
 **ShaunClarkMalta/ShaunClarkMalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
