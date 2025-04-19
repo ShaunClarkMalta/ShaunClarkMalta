@@ -13,7 +13,7 @@
 ---
 ### Living in Barcelona, Spain 🌴
 - Contact me if you have any advice, suggestions or want to work together!
-- My [LinkedIn](www.linkedin.com/in/shaun-clark-malta)
+- My [LinkedIn](www.linkedin.com/in/shaun-clark-malta) for further information about me!
 
 <!--
 **ShaunClarkMalta/ShaunClarkMalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
